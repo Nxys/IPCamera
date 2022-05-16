@@ -5,11 +5,11 @@
 *.class
 bin/
 gen/
-*.class
 *.o
 *.so
 *.py
 local.properties
 custom_rules.xml
 ant.properties
-*~
+*~!/.idea/
+!/.idea/
